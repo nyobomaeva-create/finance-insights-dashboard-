@@ -1,0 +1,37 @@
+date,description,category,amount
+2026-01-03,Client retainer,Income,4200
+2026-01-05,Office rent,Rent,-950
+2026-01-09,Cloud software,Tools,-89
+2026-01-14,Online advertising,Marketing,-240
+2026-01-20,Internet service,Utilities,-55
+2026-01-28,Team lunch,Meals,-74
+2026-02-03,Client retainer,Income,4200
+2026-02-05,Office rent,Rent,-950
+2026-02-08,Design software,Tools,-79
+2026-02-13,Search advertising,Marketing,-310
+2026-02-18,Electricity,Utilities,-68
+2026-02-25,Local travel,Travel,-120
+2026-03-03,Client retainer,Income,4500
+2026-03-05,Office rent,Rent,-950
+2026-03-10,Cloud hosting,Tools,-135
+2026-03-14,Industry newsletter,Marketing,-65
+2026-03-19,Mobile service,Utilities,-42
+2026-03-26,Client workshop,Travel,-185
+2026-04-03,Client retainer,Income,4500
+2026-04-05,Office rent,Rent,-950
+2026-04-09,Accounting software,Tools,-99
+2026-04-12,Social advertising,Marketing,-275
+2026-04-18,Electricity,Utilities,-71
+2026-04-24,Laptop purchase,Equipment,-1850
+2026-05-03,Client retainer,Income,4800
+2026-05-05,Office rent,Rent,-950
+2026-05-10,Cloud hosting,Tools,-142
+2026-05-15,Event sponsorship,Marketing,-420
+2026-05-19,Internet service,Utilities,-58
+2026-05-27,Client meeting,Meals,-96
+2026-06-03,Client retainer,Income,4800
+2026-06-05,Office rent,Rent,-950
+2026-06-09,Design software,Tools,-79
+2026-06-14,Search advertising,Marketing,-330
+2026-06-20,Electricity,Utilities,-76
+2026-06-26,Conference travel,Travel,-540
