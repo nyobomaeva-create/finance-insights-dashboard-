@@ -1,0 +1,17 @@
+transaction_id,date,provider,bank,country,status,amount,currency,decline_reason
+TX1001,2026-10-01,Gateway A,Bank North,RS,approved,125.00,EUR,
+TX1002,2026-10-01,Gateway A,Bank North,RS,failed,80.00,EUR,Insufficient funds
+TX1003,2026-10-01,Gateway B,Bank South,RS,approved,49.00,EUR,
+TX1004,2026-10-02,Gateway A,Bank South,RS,pending,27.00,EUR,
+TX1005,2026-10-02,Gateway B,Bank West,FR,failed,230.00,EUR,Authentication failed
+TX1006,2026-10-02,Gateway B,Bank West,FR,approved,230.00,EUR,
+TX1007,2026-10-03,Gateway A,Bank North,RS,approved,30.00,EUR,
+TX1008,2026-10-03,Gateway B,Bank South,RS,failed,21.00,EUR,Timeout
+TX1009,2026-10-03,Gateway A,Bank West,FR,approved,41.00,EUR,
+TX1010,2026-10-04,Gateway A,Bank North,RS,failed,75.00,EUR,Insufficient funds
+TX1011,2026-10-04,Gateway B,Bank South,RS,approved,29.00,EUR,
+TX1012,2026-10-04,Gateway A,Bank West,FR,approved,99.00,EUR,
+TX1013,2026-10-05,Gateway B,Bank South,RS,pending,15.00,EUR,
+TX1014,2026-10-05,Gateway A,Bank North,RS,approved,47.00,EUR,
+TX1015,2026-10-05,Gateway B,Bank West,FR,failed,64.00,EUR,
+TX1016,2026-10-06,Gateway A,Bank South,RS,approved,130.00,EUR,
